@@ -1,0 +1,8 @@
+bumpversion
+wheel
+flake8
+coverage
+pytest
+cryptography
+mkdocs
+
